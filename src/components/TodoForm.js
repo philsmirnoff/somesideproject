@@ -9,7 +9,7 @@ function TodoForm(props) {
 
   const handleSubmit = e => {
     e.preventDefault();
-
+// bug is fixed
     props.onSubmit({
       id: Math.floor(Math.random() * 10000),
       text: input
