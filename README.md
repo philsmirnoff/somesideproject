@@ -5,7 +5,7 @@ Basic to do app with React Hooks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-Just for fun
+
 
 In the project directory, you can run:
 
